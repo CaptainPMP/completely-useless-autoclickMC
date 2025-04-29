@@ -1,6 +1,7 @@
 import keyboard
 import pyautogui
 import mouse
+import time
 def start(timing):
     keyboard.wait("i")
     while(True):
